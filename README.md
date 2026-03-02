@@ -3,7 +3,7 @@
 ## Startup
 
 1. Git clone the repository into Unit0, under Investigate
-2. Create a new file called vars_investigate.py
+2. Create a new file called var_investigate.py
 3. Copy / paste the below code into that file
 4. Play around with the file
 
